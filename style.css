@@ -1,0 +1,9 @@
+h1,h2,h3,h4,h5,h6{
+    color: rgb(22, 22, 22);
+    text-align: center;
+    background-color: orange;
+}
+span{
+    color: blue;
+    font-size: larger;
+}
